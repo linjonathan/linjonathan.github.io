@@ -19,7 +19,7 @@
 .page {
   @include breakpoint($large) {
     @include span(9 of 12 last);
-    @include prefix(0%);
+    @include prefix(8%);
     @include suffix(5%);
   }
 
