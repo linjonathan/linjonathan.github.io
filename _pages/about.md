@@ -13,6 +13,3 @@ I am a second-year graduate student in the Earth, Atmospheric, and Planetary Sci
 My current research interests are in hurricane prediction and predictability.
 
 I also enjoy playing volleyball and basketball, listening to music, and cooking.
-
-Contact Information
-======
