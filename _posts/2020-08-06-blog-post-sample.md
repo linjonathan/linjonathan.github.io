@@ -7,3 +7,5 @@ tags:
 ---
 
 This is a sample blog post. 
+
+\\[ a^2 = b^2 + c^2 \\]
