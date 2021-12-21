@@ -8,7 +8,7 @@ For real-time, large-ensemble tropical cyclone forecasts, see [tcs.mit.edu](http
 
 ### Under Peer-Review
 
-Lin J., Emanuel K (in review). [On the Effect of Surface Friction and Upward Radiation of Energy on Equatorial Waves](https://arxiv.org/abs/2109.10821). Submitted to *Journal of Atmospheric Science*.
+Lin J., Emanuel K (2022). [On the Effect of Surface Friction and Upward Radiation of Energy on Equatorial Waves](https://arxiv.org/abs/2109.10821). Will appear in *Journal of Atmospheric Science*.
 
 ### Publications
 
