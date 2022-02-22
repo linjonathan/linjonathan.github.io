@@ -6,11 +6,9 @@ author_profile: true
 
 For real-time, large-ensemble tropical cyclone forecasts, see [tcs.mit.edu](http://tcs.mit.edu).
 
-### Under Peer-Review
-
-Lin J., Emanuel K (2022). [On the Effect of Surface Friction and Upward Radiation of Energy on Equatorial Waves](https://arxiv.org/abs/2109.10821). Will appear in *Journal of Atmospheric Science*.
-
 ### Publications
+
+Lin J., Emanuel K (2022). [On the Effect of Surface Friction and Upward Radiation of Energy on Equatorial Waves](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-21-0199.1/JAS-D-21-0199.1.xml). *Journal of Atmospheric Science*. Early online release.
 
 Lin J., Emanuel K., & Vigh J. (2020). [Forecasts of Hurricanes Using Large-Ensemble Outputs](https://linjonathan.github.io/pdfs/lin_et_al_2020_fhlo.pdf). *Weather and Forecasting*, 35(5):1713-31.
 
