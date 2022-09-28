@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral scientist in the Earth, Atmospheric, and Planetary Sciences at MIT, where I graduated with my Ph.D. in atmospheric science under the supervision of Prof. Kerry Emanuel. I attended Princeton University for my undergraduate degree, where I majored in computer science and obtained a certificate in Geological Engineering. 
+I am currently an NSF postdoctoral research fellow at Lamont-Doherty Earth Observatory (Columbia University). Previously, I graduated with my Ph.D. in atmospheric science from the Earth, Atmospheric, and Planetary Sciences at MIT, under the supervision of Prof. Kerry Emanuel. I attended Princeton University for my undergraduate degree, where I majored in computer science and obtained a certificate in Geological Engineering. 
 
 My current research interests are in tropical cyclone prediction/predictability, and dynamics of equatorial waves.
 
