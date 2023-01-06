@@ -10,7 +10,7 @@ For real-time, large-ensemble tropical cyclone forecasts, see [tcs.mit.edu](http
 Lin J. [What is the predictability of point-wise tropical cyclone wind speed?].
 
 ### Publications
-Lin J., Emanuel K (2022). [Stratospheric Modulation of the MJO through Cirrus Cloud Feedbacks](https://journals.ametsoc.org/view/journals/atsc/80/1/JAS-D-22-0083.1.xml). Accepted to *Journal of Atmospheric Science*.
+Lin J., Emanuel K (2022). [Stratospheric Modulation of the MJO through Cirrus Cloud Feedbacks](https://journals.ametsoc.org/view/journals/atsc/80/1/JAS-D-22-0083.1.xml). *Journal of Atmospheric Science*, 83(1):273-299.
 
 Lin J., Emanuel K. (2022). [On the Effect of Surface Friction and Upward Radiation of Energy on Equatorial Waves](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-21-0199.1/JAS-D-21-0199.1.xml). *Journal of Atmospheric Science*, 79(3):837-857.
 
