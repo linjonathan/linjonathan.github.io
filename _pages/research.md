@@ -6,8 +6,13 @@ author_profile: true
 
 For real-time, large-ensemble tropical cyclone forecasts, see [tcs.mit.edu](http://tcs.mit.edu).
 
+For the publicly available tropical cyclone downscaling model, see [here](https://github.com/linjonathan/tropical_cyclone_risk).
+
 ### In Prep.
-Lin J. [What is the predictability of point-wise tropical cyclone wind speed?].
+Lin J., Lee C. Y., Sobel A. What is the practical predictability of point-wise tropical cyclone wind speed?.
+
+### In Review.
+Lin J., Rousseau-Rizzi R., Lee C. Y., Sobel A. [An Open-Source, Physics-Based, Tropical Cyclone Downscaling Model with Intensity-Dependent Steering](https://arxiv.org/abs/2302.09455). *In review*. 
 
 ### Publications
 Lin J., Emanuel K (2022). [Stratospheric Modulation of the MJO through Cirrus Cloud Feedbacks](https://journals.ametsoc.org/view/journals/atsc/80/1/JAS-D-22-0083.1.xml). *Journal of Atmospheric Science*, 83(1):273-299.
