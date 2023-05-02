@@ -12,15 +12,15 @@ For the publicly available tropical cyclone downscaling model, see [here](https:
 Lin J., Lee C. Y., Sobel A. What is the practical predictability of point-wise tropical cyclone wind speed?.
 
 ### In Review.
-Lin J., Emanuel K. [Upwards Tropospheric Influence on Tropical Stratospheric Upwelling](https://linjonathan.github.io.pdfs/lin_emanuel_2023.pdf). *In review*. 
+Lin J. and Emanuel K. [Upwards Tropospheric Influence on Tropical Stratospheric Upwelling](https://linjonathan.github.io.pdfs/lin_emanuel_2023.pdf). *In review*. 
 
 Lin J., Rousseau-Rizzi R., Lee C. Y., Sobel A. [An Open-Source, Physics-Based, Tropical Cyclone Downscaling Model with Intensity-Dependent Steering](https://arxiv.org/abs/2302.09455). *In review*. 
 
 ### Publications
-Lin J., Emanuel K (2022). [Stratospheric Modulation of the MJO through Cirrus Cloud Feedbacks](https://journals.ametsoc.org/view/journals/atsc/80/1/JAS-D-22-0083.1.xml). *Journal of Atmospheric Science*, 83(1):273-299.
+Lin J., and Emanuel K (2022). [Stratospheric Modulation of the MJO through Cirrus Cloud Feedbacks](https://journals.ametsoc.org/view/journals/atsc/80/1/JAS-D-22-0083.1.xml). *Journal of Atmospheric Science*, 83(1):273-299.
 
-Lin J., Emanuel K. (2022). [On the Effect of Surface Friction and Upward Radiation of Energy on Equatorial Waves](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-21-0199.1/JAS-D-21-0199.1.xml). *Journal of Atmospheric Science*, 79(3):837-857.
+Lin J., and Emanuel K. (2022). [On the Effect of Surface Friction and Upward Radiation of Energy on Equatorial Waves](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-21-0199.1/JAS-D-21-0199.1.xml). *Journal of Atmospheric Science*, 79(3):837-857.
 
-Lin J., Emanuel K., & Vigh J. (2020). [Forecasts of Hurricanes Using Large-Ensemble Outputs](https://linjonathan.github.io/pdfs/lin_et_al_2020_fhlo.pdf). *Weather and Forecasting*, 35(5):1713-31.
+Lin J., and Emanuel K., & Vigh J. (2020). [Forecasts of Hurricanes Using Large-Ensemble Outputs](https://linjonathan.github.io/pdfs/lin_et_al_2020_fhlo.pdf). *Weather and Forecasting*, 35(5):1713-31.
 
 Rodgers K., Lin J., & Frölicher TL. (2015). [Emergence of multiple ocean ecosystem drivers in a large ensemble suite with an Earth system model](https://www.research-collection.ethz.ch/handle/20.500.11850/101963). *Biogeosciences*, 12(11), 3301-3320.
