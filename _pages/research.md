@@ -9,6 +9,8 @@ For real-time, large-ensemble tropical cyclone forecasts, see [tcs.mit.edu](http
 For the publicly available tropical cyclone downscaling model, see [here](https://github.com/linjonathan/tropical_cyclone_risk).
 
 ### In Prep.
+Lin J. Can Internal Variability Explain Trends in the Latitude of Lifetime Maximum Intensity?.
+
 Lin J., Lee C. Y., Sobel A. What is the practical predictability of point-wise tropical cyclone wind speed?.
 
 ### In Review.
@@ -17,7 +19,7 @@ Lin J. and Emanuel K. [Upwards Tropospheric Influence on Tropical Stratospheric 
 Lin J., Rousseau-Rizzi R., Lee C. Y., Sobel A. [An Open-Source, Physics-Based, Tropical Cyclone Downscaling Model with Intensity-Dependent Steering](https://arxiv.org/abs/2302.09455). *In review*. 
 
 ### Publications
-Lin J., and Emanuel K (2022). [Stratospheric Modulation of the MJO through Cirrus Cloud Feedbacks](https://journals.ametsoc.org/view/journals/atsc/80/1/JAS-D-22-0083.1.xml). *Journal of Atmospheric Science*, 83(1):273-299.
+Lin J., and Emanuel K (2023). [Stratospheric Modulation of the MJO through Cirrus Cloud Feedbacks](https://journals.ametsoc.org/view/journals/atsc/80/1/JAS-D-22-0083.1.xml). *Journal of Atmospheric Science*, 83(1):273-299.
 
 Lin J., and Emanuel K. (2022). [On the Effect of Surface Friction and Upward Radiation of Energy on Equatorial Waves](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-21-0199.1/JAS-D-21-0199.1.xml). *Journal of Atmospheric Science*, 79(3):837-857.
 
