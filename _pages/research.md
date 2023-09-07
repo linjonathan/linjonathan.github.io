@@ -16,7 +16,7 @@ For the publicly available tropical cyclone downscaling model, see [here](https:
 ### In Review.
 **Lin J.** and Emanuel K. [Upwards Tropospheric Influence on Tropical Stratospheric Upwelling](https://linjonathan.github.io/pdfs/lin_emanuel_2023.pdf). *In review*. 
 
-**Lin J.**, Rousseau-Rizzi R., Lee C. Y., Sobel A. [An Open-Source, Physics-Based, Tropical Cyclone Downscaling Model with Intensity-Dependent Steering](https://arxiv.org/abs/2302.09455). *In review*. 
+**Lin J.**, Rousseau-Rizzi R., Lee C. Y., Sobel A. [An Open-Source, Physics-Based, Tropical Cyclone Downscaling Model with Intensity-Dependent Steering](https://arxiv.org/abs/2302.09455). *Accepted to Journal of Advances in Modeling Earth Systems*. 
 
 ### Publications
 
