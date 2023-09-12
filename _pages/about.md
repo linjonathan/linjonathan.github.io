@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently an NSF postdoctoral research fellow at Lamont-Doherty Earth Observatory (Columbia University). I will be starting as an Assistant Professor at Cornell University's Earth and Atmospheric Sciences Department in Fall 2024. Previously, I graduated with my Ph.D. in atmospheric science from the Earth, Atmospheric, and Planetary Sciences at MIT, under the supervision of Prof. Kerry Emanuel. I attended Princeton University for my undergraduate degree, where I majored in computer science and obtained a certificate in Geological Engineering.
 
-If you are interested in working with me, please send me an email at [jonathanlin@cornell.edu](mailto:jonathanlin@cornell.edu).
+If you are interested in working with me, please send me an email at [jonathanlin@cornell.edu](mailto:jonathanlin@cornell.edu). I am currently recruiting a student to start in **Fall 2024** (co-advised with Prof. Peter Hitchcock). See [here](/opportunities.html) for more details.
 
 My research interests are broadly in tropical meteorology, including (but not limited to) tropical cyclone prediction/predictability, dynamics of tropical intraseasonal variability, and troposphere-stratosphere coupling.
 
