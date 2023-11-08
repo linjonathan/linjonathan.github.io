@@ -14,7 +14,7 @@ For the publicly available tropical cyclone downscaling model, see [here](https:
 **Lin J.**, Lee C. Y., Sobel A. What is the practical predictability of point-wise tropical cyclone wind speed?.
 
 ### In Review.
-**Lin J.** and Emanuel K. [Why does the lower stratosphere cool when the troposphere warms?]. *In review*.
+**Lin J.** and Emanuel K. Why does the lower stratosphere cool when the troposphere warms?. *In review*.
 
 **Lin J.** and Emanuel K. [Upwards Tropospheric Influence on Tropical Stratospheric Upwelling](https://linjonathan.github.io/pdfs/lin_emanuel_2023.pdf). *In review*. 
 
