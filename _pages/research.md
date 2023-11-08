@@ -14,11 +14,13 @@ For the publicly available tropical cyclone downscaling model, see [here](https:
 **Lin J.**, Lee C. Y., Sobel A. What is the practical predictability of point-wise tropical cyclone wind speed?.
 
 ### In Review.
+**Lin J.** and Emanuel K. [Why does the lower stratosphere cool when the troposphere warms?]. *In review*.
+
 **Lin J.** and Emanuel K. [Upwards Tropospheric Influence on Tropical Stratospheric Upwelling](https://linjonathan.github.io/pdfs/lin_emanuel_2023.pdf). *In review*. 
 
-**Lin J.**, Rousseau-Rizzi R., Lee C. Y., Sobel A. [An Open-Source, Physics-Based, Tropical Cyclone Downscaling Model with Intensity-Dependent Steering](https://arxiv.org/abs/2302.09455). *Accepted to Journal of Advances in Modeling Earth Systems*. 
-
 ### Publications
+
+**Lin J.**, Rousseau-Rizzi R., Lee C. Y., Sobel A. [An Open-Source, Physics-Based, Tropical Cyclone Downscaling Model with Intensity-Dependent Steering](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023MS003686). *Journal of Advances in Modeling Earth Systems*, 15, 15: e2023MS003686.
 
 Garcia-Franco., Gray L., Osprey S., Chadwick R., **Lin J.** (2023). [Understanding the mechanisms for tropical surface impacts of the quasi-biennial oscillation (QBO)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD038474). *Journal of Geophysical Research: Atmospheres*, 128(515):e2023JD038474.
 
