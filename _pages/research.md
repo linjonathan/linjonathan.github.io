@@ -18,15 +18,15 @@ For the publicly available tropical cyclone downscaling model, see [here](https:
 
 ### Publications
 
-**Lin J.** and Emanuel K (2024). [Upwards Tropospheric Influence on Tropical Stratospheric Upwelling](https://linjonathan.github.io/pdfs/lin_emanuel_2023.pdf). *Accepted in Journal of Atmospheric Science*.
+**Lin J.** and Emanuel K (2024). [Tropospheric thermal forcing of the stratosphere through quasi-balanced dynamics](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-23-0081.1/JAS-D-23-0081.1.xml). *Journal of Atmospheric Sciences*.
 
 **Lin J.**, Rousseau-Rizzi R., Lee C. Y., Sobel A. (2023). [An Open-Source, Physics-Based, Tropical Cyclone Downscaling Model with Intensity-Dependent Steering](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023MS003686). *Journal of Advances in Modeling Earth Systems*, 15:e2023MS003686.
 
 Garcia-Franco., Gray L., Osprey S., Chadwick R., **Lin J.** (2023). [Understanding the mechanisms for tropical surface impacts of the quasi-biennial oscillation (QBO)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD038474). *Journal of Geophysical Research: Atmospheres*, 128(515):e2023JD038474.
 
-**Lin J.**, and Emanuel K. (2023). [Stratospheric Modulation of the MJO through Cirrus Cloud Feedbacks](https://journals.ametsoc.org/view/journals/atsc/80/1/JAS-D-22-0083.1.xml). *Journal of Atmospheric Science*, 83(1):273-299.
+**Lin J.**, and Emanuel K. (2023). [Stratospheric Modulation of the MJO through Cirrus Cloud Feedbacks](https://journals.ametsoc.org/view/journals/atsc/80/1/JAS-D-22-0083.1.xml). *Journal of Atmospheric Sciences*, 83(1):273-299.
 
-**Lin J.**, and Emanuel K. (2022). [On the Effect of Surface Friction and Upward Radiation of Energy on Equatorial Waves](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-21-0199.1/JAS-D-21-0199.1.xml). *Journal of Atmospheric Science*, 79(3):837-857.
+**Lin J.**, and Emanuel K. (2022). [On the Effect of Surface Friction and Upward Radiation of Energy on Equatorial Waves](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-21-0199.1/JAS-D-21-0199.1.xml). *Journal of Atmospheric Sciences*, 79(3):837-857.
 
 **Lin J.**, and Emanuel K., & Vigh J. (2020). [Forecasts of Hurricanes Using Large-Ensemble Outputs](https://linjonathan.github.io/pdfs/lin_et_al_2020_fhlo.pdf). *Weather and Forecasting*, 35(5):1713-31.
 
