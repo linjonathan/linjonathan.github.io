@@ -14,11 +14,11 @@ For the publicly available tropical cyclone downscaling model, see [here](https:
 ### In Review.
 **Lin J.**, Lee C. Y., Camargo S. J., Sobel A. [Poleward migration of the latitude of maximum tropical cyclone intensity -- forced or natural?](https://linjonathan.github.io/pdfs/JCLI_Poleward_migration_of_the_latitude_of_maximum_tropical_cyclone_intensity--forced_or_natural_R0.pdf). *In review*.
 
-**Lin J.** and Emanuel K. Why does the lower stratosphere cool when the troposphere warms? *In review*.
-
 ### Publications
 
-**Lin J.** and Emanuel K (2024). [Tropospheric thermal forcing of the stratosphere through quasi-balanced dynamics](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-23-0081.1/JAS-D-23-0081.1.xml). *Journal of Atmospheric Sciences*.
+**Lin J.** and Emanuel K. (2024). Why the lower stratosphere cools when the troposphere warms. Accepted in *Proceedings of the National Academy of Sciences*.
+
+**Lin J.** and Emanuel K. (2024). [Tropospheric thermal forcing of the stratosphere through quasi-balanced dynamics](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-23-0081.1/JAS-D-23-0081.1.xml). *Journal of Atmospheric Sciences*.
 
 **Lin J.**, Rousseau-Rizzi R., Lee C. Y., Sobel A. (2023). [An Open-Source, Physics-Based, Tropical Cyclone Downscaling Model with Intensity-Dependent Steering](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023MS003686). *Journal of Advances in Modeling Earth Systems*, 15:e2023MS003686.
 
