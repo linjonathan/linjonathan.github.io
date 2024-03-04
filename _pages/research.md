@@ -16,7 +16,7 @@ For the publicly available tropical cyclone downscaling model, see [here](https:
 
 ### Publications
 
-**Lin J.** and Emanuel K. (2024). Why the lower stratosphere cools when the troposphere warms. Accepted in *Proceedings of the National Academy of Sciences*.
+**Lin J.** and Emanuel K. (2024). [Why the lower stratosphere cools when the troposphere warms](https://www.pnas.org/doi/10.1073/pnas.2319228121). *Proceedings of the National Academy of Sciences*.
 
 **Lin J.** and Emanuel K. (2024). [Tropospheric thermal forcing of the stratosphere through quasi-balanced dynamics](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-23-0081.1/JAS-D-23-0081.1.xml). *Journal of Atmospheric Sciences*.
 
