@@ -8,13 +8,11 @@ For real-time, large-ensemble tropical cyclone forecasts, see [tcs.mit.edu](http
 
 For the publicly available tropical cyclone downscaling model, see [here](https://github.com/linjonathan/tropical_cyclone_risk).
 
-### In Prep.
-**Lin J.**, Lee C. Y., Sobel A. What is the practical predictability of point-wise tropical cyclone wind speed?
-
 ### In Review.
-**Lin J.**, Lee C. Y., Camargo S. J., Sobel A. [Poleward migration of the latitude of maximum tropical cyclone intensity -- forced or natural?](https://linjonathan.github.io/pdfs/JCLI_Poleward_migration_of_the_latitude_of_maximum_tropical_cyclone_intensity--forced_or_natural_R0.pdf). *In review*.
 
 ### Publications
+
+**Lin J.**, Lee C. Y., Camargo S. J., Sobel A. [Poleward migration of the latitude of maximum tropical cyclone intensity -- forced or natural?](https://linjonathan.github.io/pdfs/JCLI_Poleward_migration_of_the_latitude_of_maximum_tropical_cyclone_intensity--forced_or_natural_R0.pdf). Accepted to *Journal of Climate*.
 
 **Lin J.** and Emanuel K. (2024). [Why the lower stratosphere cools when the troposphere warms](https://www.pnas.org/doi/10.1073/pnas.2319228121). *Proceedings of the National Academy of Sciences*.
 

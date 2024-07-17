@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jonathan Lin"
 title_separator          : "-"
 name                     : &name "Jonathan Lin"
-description              : &description "Postdoctoral Scientist in Atmospheric Science"
+description              : &description "Assistant Professor"
 url                      : https://linjonathan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "linjonathan.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Jonathan Lin"
   avatar           : "profile.png"
-  bio              : "NSF-AGS Postdoctoral Research Fellow"
-  location         : "New York, NY"
+  bio              : "Assistant Professor"
+  location         : "Ithaca, NY"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=LEjwRacAAAAJ&hl=en"
-  email            : "jlin@ldeo.columbia.edu"
+  email            : "jonathanlin@cornell.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
