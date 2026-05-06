@@ -12,7 +12,13 @@ For the publicly available tropical cyclone downscaling model, see [here](https:
 
 ### Publications
 
-**Lin J.**, Lee C. Y., Camargo S. J., Sobel A. [Poleward migration of the latitude of maximum tropical cyclone intensity -- forced or natural?](https://linjonathan.github.io/pdfs/JCLI_Poleward_migration_of_the_latitude_of_maximum_tropical_cyclone_intensity--forced_or_natural_R0.pdf). Accepted to *Journal of Climate*.
+Lin J., Rousseau-Rizzi R., Emanuel K. (2026). [The Time-Dependent Response of Atlantic Tropical Cyclone Potential Intensity to Pacific SST Forcing. Part I: A Conceptual Framework](https://journals.ametsoc.org/view/journals/clim/39/10/JCLI-D-25-0536.1.xml). *Journal of Climate*.
+
+Lin J., Lee C. Y., Camargo S. J., Sobel A., Zhuo J. (2025). [The response of tropical cyclone hazard to natural and forced patterns of warming](https://www.nature.com/articles/s41612-025-00997-y). *npj Climate and Atmospheric Science*.
+
+Bourdin S., Camargo S. J., Lee C. Y., **Lin J.**, Vrac M., Vaittinada Ayar P., Faranda D. (2025). [Improving analogues-based detection & attribution approaches for hurricanes](https://iopscience.iop.org/article/10.1088/1748-9326/adaa8d/meta). *Environmental Research Letters*.
+
+**Lin J.**, Lee C. Y., Camargo S. J., Sobel A. [Poleward migration of the latitude of maximum tropical cyclone intensity -- forced or natural?](https://journals.ametsoc.org/view/journals/clim/37/21/JCLI-D-23-0705.1.xml). *Journal of Climate*.
 
 **Lin J.** and Emanuel K. (2024). [Why the lower stratosphere cools when the troposphere warms](https://www.pnas.org/doi/10.1073/pnas.2319228121). *Proceedings of the National Academy of Sciences*.
 
