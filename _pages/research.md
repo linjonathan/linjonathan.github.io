@@ -12,9 +12,9 @@ For the publicly available tropical cyclone downscaling model, see [here](https:
 
 ### Publications
 
-Lin J., Rousseau-Rizzi R., Emanuel K. (2026). [The Time-Dependent Response of Atlantic Tropical Cyclone Potential Intensity to Pacific SST Forcing. Part I: A Conceptual Framework](https://journals.ametsoc.org/view/journals/clim/39/10/JCLI-D-25-0536.1.xml). *Journal of Climate*.
+**Lin J.**, Rousseau-Rizzi R., Emanuel K. (2026). [The Time-Dependent Response of Atlantic Tropical Cyclone Potential Intensity to Pacific SST Forcing. Part I: A Conceptual Framework](https://journals.ametsoc.org/view/journals/clim/39/10/JCLI-D-25-0536.1.xml). *Journal of Climate*.
 
-Lin J., Lee C. Y., Camargo S. J., Sobel A., Zhuo J. (2025). [The response of tropical cyclone hazard to natural and forced patterns of warming](https://www.nature.com/articles/s41612-025-00997-y). *npj Climate and Atmospheric Science*.
+**Lin J.**, Lee C. Y., Camargo S. J., Sobel A., Zhuo J. (2025). [The response of tropical cyclone hazard to natural and forced patterns of warming](https://www.nature.com/articles/s41612-025-00997-y). *npj Climate and Atmospheric Science*.
 
 Bourdin S., Camargo S. J., Lee C. Y., **Lin J.**, Vrac M., Vaittinada Ayar P., Faranda D. (2025). [Improving analogues-based detection & attribution approaches for hurricanes](https://iopscience.iop.org/article/10.1088/1748-9326/adaa8d/meta). *Environmental Research Letters*.
 
