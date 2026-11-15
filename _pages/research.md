@@ -10,6 +10,12 @@ For the publicly available tropical cyclone downscaling model, see [here](https:
 
 ### In Review.
 
+**Lin J.**, Rousseau-Rizzi R., Emanuel K. (2026). The Time-Dependent Response of Atlantic Tropical Cyclone Potential Intensity to Pacific SST Forcing. Part II: Application. *In review*.
+
+Xiao S., **Lin J.**, Ehrmann T., Sarhadi A. (2026). FAST-ML: A hybrid physics–machine learning framework for tropical cyclone intensity forecasting. *In review*.
+
+Gomez M., et al. (2026). [TCBench: A benchmark for tropical cyclone track and intensity forecasting at the global scale](https://arxiv.org/abs/2601.23268). *arXiv preprint* arXiv:2601.23268.
+
 ### Publications
 
 **Lin J.**, Rousseau-Rizzi R., Emanuel K. (2026). [The Time-Dependent Response of Atlantic Tropical Cyclone Potential Intensity to Pacific SST Forcing. Part I: A Conceptual Framework](https://journals.ametsoc.org/view/journals/clim/39/10/JCLI-D-25-0536.1.xml). *Journal of Climate*.
@@ -18,7 +24,7 @@ For the publicly available tropical cyclone downscaling model, see [here](https:
 
 Bourdin S., Camargo S. J., Lee C. Y., **Lin J.**, Vrac M., Vaittinada Ayar P., Faranda D. (2025). [Improving analogues-based detection & attribution approaches for hurricanes](https://iopscience.iop.org/article/10.1088/1748-9326/adaa8d/meta). *Environmental Research Letters*.
 
-**Lin J.**, Lee C. Y., Camargo S. J., Sobel A. [Poleward migration of the latitude of maximum tropical cyclone intensity -- forced or natural?](https://journals.ametsoc.org/view/journals/clim/37/21/JCLI-D-23-0705.1.xml). *Journal of Climate*.
+**Lin J.**, Lee C. Y., Camargo S. J., Sobel A. (2024). [Poleward migration of the latitude of maximum tropical cyclone intensity -- forced or natural?](https://journals.ametsoc.org/view/journals/clim/37/21/JCLI-D-23-0705.1.xml). *Journal of Climate*.
 
 **Lin J.** and Emanuel K. (2024). [Why the lower stratosphere cools when the troposphere warms](https://www.pnas.org/doi/10.1073/pnas.2319228121). *Proceedings of the National Academy of Sciences*.
 
